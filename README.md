@@ -28,6 +28,8 @@ This project explores such dynamics abstractly, using toy models to reason about
 
 Additional notebooks may extend or refine these ideas.
 
+Please note that some notebooks are summaries for recruiters and are so-labelled in the filename. These notebooks accompany equivalent "workbooks" which are my more technical working documents.
+
 ---
 
 ## Design philosophy
