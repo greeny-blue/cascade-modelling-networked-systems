@@ -1,4 +1,4 @@
-# SOC Forest Fire (animated)
+# SOC Forest Fire (animated): `soc_forest_v11.py`
 
 A single-file implementation of the **self-organised critical (SOC) forest-fire model** (Drossel–Schwabl style) with an optional **Pygame animation**, plus basic logging for offline analysis.
 
@@ -103,7 +103,8 @@ Run `python soc_forest_v11.py --help` for the full list. Common parameters:
 
 - **Space / P**: pause / resume  
 - **R**: reset to empty soil (returns to DRIVE mode)  
-- **S**: save a manual screenshot PNG  
+- **S**: save a manual screenshot PNG
+- **Q**: quit  
 
 ---
 
@@ -148,5 +149,4 @@ If you use this code in academic work, consider citing the Drossel–Schwabl mod
 
 ## Licence
 
-Add a licence that matches how you want others to use the code (e.g. MIT, Apache-2.0, GPL-3.0).  
-If you’re not sure, MIT is a common default for small research utilities.
+XXX Add a licence (e.g. MIT, Apache-2.0, GPL-3.0).  
