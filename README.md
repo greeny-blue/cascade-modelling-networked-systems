@@ -20,7 +20,7 @@ This project explores such dynamics abstractly, using toy models to reason about
 
 ## Structure of the repository
 
-- **Notebook 0 – Preface and vision**  
+- **[Notebook 0 – Preface and vision](https://github.com/greeny-blue/cascade-modelling-networked-systems/blob/main/notebooks/Modelling%20cascades%20RECRUITER%200%20-%20Preface%20and%20vision.ipynb)**  
   Conceptual framing, assumptions and motivation for the work.
 
 - **Notebook 1 – Cascades, criticality and why they matter**  
