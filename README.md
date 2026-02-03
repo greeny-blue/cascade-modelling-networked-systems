@@ -29,9 +29,6 @@ This project explores such dynamics abstractly, using toy models to reason about
 - **[Notebook 2.0 – Networks, their structure and metrics](https://github.com/greeny-blue/cascade-modelling-networked-systems/blob/main/notebooks/Modelling%20cascades%20WORKBOOK%202%20-%20Network%20models%20introduction.ipynb)**  
   An introduction to some classic network models that form the basis of this project.
 
-- **[Notebook 2.0 - Networks, their structure and metrics](https://github.com/greeny-blue/cascade-modelling-networked-systems/blob/main/notebooks/Modelling%20cascades%20WORKBOOK%202%20-%20Network%20models%20introduction.ipynb)** 
-  An introduction to some classic network models that form the basis of this project.
-
 Additional notebooks may extend or refine these ideas.
 
 Please note that some notebooks are summaries for recruiters and are so-labelled in the filename. These notebooks accompany equivalent "workbooks" which are my more technical working documents.
