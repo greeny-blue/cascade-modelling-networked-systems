@@ -27,6 +27,7 @@ This project explores such dynamics abstractly, using toy models to reason about
   An introduction to self-organising, critical systems. Click here for an abridged **[recruiter-friendly version](https://github.com/greeny-blue/cascade-modelling-networked-systems/blob/main/notebooks/Modelling%20cascades%20RECRUITER%201%20-%20SOC%20systems.ipynb)**.
 
 - **[Notebook 2.0 - Networks, their structure and metrics](https://github.com/greeny-blue/cascade-modelling-networked-systems/blob/main/notebooks/Modelling%20cascades%20WORKBOOK%202%20-%20Network%20models%20introduction.ipynb)**
+
   An introduction to some classic network models that form the basis of this project.
 
 Additional notebooks may extend or refine these ideas.
