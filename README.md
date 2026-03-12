@@ -33,7 +33,7 @@ This project explores such dynamics abstractly, using toy models to reason about
   A first assessment of self-organised critical (SOC)-like behaviour in Random Geometric Graphs.
 
 - **Notebook 2.1.2 – Spatial- and network-derived Correlation Length ($\xi$)** ⚠️ARRIVING SOON!⚠️  
-  How Random Geometric Graphs allow for two methods of calculating $\xi$, a key metric in SOC-like models. 
+  Exploring how Random Geometric Graphs enable two independent methods for calculating $\xi$, a key metric in SOC-like models. 
 
 - **Notebook 2.2.1 – Cascade behaviour in Erdős–Rényi / Random Graphs)** ⚠️ARRIVING SOON!⚠️  
   A first assessment of self-organised critical (SOC)-like behaviour in Erdős–Rényi Graphs.
