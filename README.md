@@ -32,6 +32,22 @@ This project explores such dynamics abstractly, using toy models to reason about
 - **[Notebook 2.1.1 – Cascade behaviour in Random Geometric Graphs](https://github.com/greeny-blue/cascade-modelling-networked-systems/blob/main/notebooks/Modelling%20cascades%20WORKBOOK%202.1.1%20-%20RGG%20cascade%20behaviour.ipynb)**  
   A first assessment of self-organised critical (SOC)-like behaviour in Random Geometric Graphs.
 
+- **Notebook 2.1.2 – Spatial- and network-derived Correlation Length ($\xi$)** ⚠️ARRIVING SOON!⚠️
+  How Random Geometric Graphs allow for two methods of calculating $\xi$, a key metric in SOC-like models. 
+
+- **Notebook 2.2.1 – Cascade behaviour in Erdős–Rényi / Random Graphs)** ⚠️ARRIVING SOON!⚠️
+  A first assessment of self-organised critical (SOC)-like behaviour in Erdős–Rényi Graphs.
+
+- **Notebook 2.2.2 – Finite-size effects** ⚠️ARRIVING SOON!⚠️
+  Evidence and discussion of finite-size effects in the SOC-like models in this notebook series.
+
+- **[Planned] Notebook 2.3 – Cascade behaviour in Watts–Strogatz Graphs (Small-World Networks)**
+  A first assessment of self-organised critical (SOC)-like behaviour in Watts–Strogatz Graphs.
+
+- **[Planned] Notebook 2.4 – Cascade behaviour in Barabási–Albert Graphs (Scale-Free Networks)**
+  A first assessment of self-organised critical (SOC)-like behaviour in Barabási–Albert Graphs.
+
+  
 Please note this is work in progress and additional notebooks will extend or refine these ideas.
 
 Please note that some notebooks are summaries for recruiters and are so-labelled in the filename. These notebooks accompany equivalent "workbooks" which are my more technical working documents.
